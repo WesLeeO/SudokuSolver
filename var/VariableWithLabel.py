@@ -1,4 +1,4 @@
-from Variable import Variable
+from var.Variable import Variable
 
 
 class VariableWithLabel(Variable):

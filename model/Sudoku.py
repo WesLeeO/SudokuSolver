@@ -1,6 +1,6 @@
-from BinaryConstraint import BinaryConstraint
-from PSC import PSC
-from VariableWithLabel import VariableWithLabel
+from constraint.BinaryConstraint import BinaryConstraint
+from model.PSC import PSC
+from var.VariableWithLabel import VariableWithLabel
 
 
 class Sudoku:

@@ -1,4 +1,4 @@
-from Constraint import Constraint
+from constraint.Constraint import Constraint
 
 
 class BinaryConstraint(Constraint):
